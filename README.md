@@ -15,7 +15,6 @@ Share learning publicly
 Build a strong habit of daily problem solving
 
 🧠 What I’m Solving
-
 I aim to cover a wide range of topics throughout the 30 days:
 
 Arrays
