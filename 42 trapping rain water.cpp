@@ -1,3 +1,6 @@
+// 42. Trapping Rain Water
+// https://leetcode.com/problems/trapping-rain-water/description/
+
 // time complexity: O(n)
 // space complexity: O(1)
 
