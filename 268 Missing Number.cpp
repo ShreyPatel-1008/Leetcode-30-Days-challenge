@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/missing-number/
 // time complexity: O(n)
 // space complexity: O(1)
-
+// for comments
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
